@@ -9,4 +9,3 @@ I built a Lunar lander style HTML5 game using the Phaser framework. It was part 
 
 
 [More info on Creators Project](http://thecreatorsproject.vice.com/blog/instagrammers-get-exclusive-access-to-failes-free-arcade-room)
-

@@ -11,5 +11,3 @@ Our first idea aims to be a screenless communication device between small groups
 The difference between our project and other ambient/smart light devices is our focus on human communication. The other 'ambient light' products in the market now are controlled by data streams from machines. They are one-off representations of data and are reactive to the web and not interactive between people.
 
 [howwasyourday.io](http://howwasyourday.io)
-
-

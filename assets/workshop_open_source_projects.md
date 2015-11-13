@@ -6,7 +6,3 @@
 - [Angular Google Maps (Open source collaboration)](http://angular-ui.github.io/angular-google-maps/)
 - [Real-time IoT demo (BrooklnJS)](https://github.com/kandizzy/brooklynjs-demo)
 - [Hotline Bling, LED experiments with Meteor and RPi](https://github.com/kandizzy/hotline-bling)
-
-
-
-

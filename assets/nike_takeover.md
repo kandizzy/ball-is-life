@@ -20,5 +20,3 @@ There are so many great videos from this install it was hard to just choose a fe
 [Varied Content 1](https://vimeo.com/album/2302654/video/116193802)
 
 [Varied Content 2](https://vimeo.com/album/2302654/video/116194183)
-
-
