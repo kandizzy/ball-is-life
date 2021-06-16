@@ -1,4 +1,4 @@
-# THINGS I MAKE, THINGS I LOVE
+# Carrie Kengle
 
 I work with code.
 
